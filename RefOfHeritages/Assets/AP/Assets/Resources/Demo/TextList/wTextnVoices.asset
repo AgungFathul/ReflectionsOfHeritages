@@ -141,12 +141,43 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - March 8, 2018
+      - Maret, 8 April 2022
       diaryTextDisplayState: 01
       diaryText:
-      - "March 8, 2018\n\nI hear a noise as though it is coming from behind the wall
-        of the cellar. I must buy some tools at John\u2019s store to investigate
-        that part of the house."
+      - 'Diary
+
+        
+
+        Tanggal: Maret, 8 April 2022
+
+        Lokasi:
+        Candi Borobudur
+
+        
+
+        Hari ini aku menemukan sesuatu yang sangat
+        misterius di dunia ini. Sebuah entitas yang tak dikenal telah menyebabkan
+        penduduk dunia ini mulai melupakan dan kehilangan ingatan mengenai kebudayaan
+        mereka sendiri. Seluruh pengetahuan dan kenangan berharga tentang sejarah,
+        tradisi, dan identitas mereka perlahan-lahan terhapus tanpa jejak.
+
+        
+
+        Sebagai
+        seorang arkeolog yang tertarik dengan penelitian dan petualangan, tugas besar
+        telah diberikan kepadaku. Aku harus mencari tahu penyebab di balik fenomena
+        ini dan yang lebih penting, membantu mengembalikan ingatan penduduk ini.
+        Dengan harapan, catatan-catatan dan artefak yang ditemukan akan menjadi kunci
+        untuk memulihkan ingatan mereka yang hilang.
+
+        
+
+        Setiap
+        tempat yang aku kunjungi, Aku berjanji untuk tetap kuat dan tidak menyerah
+        dalam misi ini. Keberhasilan kami untuk mengembalikan ingatan dan identitas
+        penduduk ini adalah kunci untuk menyelamatkan kebudayaan mereka yang mulai
+        memudar. Aku akan mencatat segala penemuan penting dalam catatan ini, untuk
+        mengumpulkan petunjuk dan memecahkan misteri. '
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -392,25 +423,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - A fortune teller machine
+      - mainan keberuntungan
       diaryTextDisplayState: 01
       diaryText:
-      - It looks like a fortune telling machine like the ones we saw in carnivals.
+      - Ini seperti mainan yang meramal keberuntungan
       diaryAudioClip:
-      - {fileID: 8300000, guid: b7fcc6c393b184b038356d8dfc34e2f6, type: 3}
+      - {fileID: 8300000, guid: 67d938b32b213084eb692794a3d535ad, type: 3}
       diarySub:
-      - showMore: 0101
+      - showMore: 01
         startPointsClip:
-        - 0
-        - 2.2319658
+        - 0.39411795
         firstLetter:
         - 0
-        - 40
-        lastLetter: 2700000022000000
-        bypasstextLayout: 0000
+        lastLetter: 30000000
+        bypasstextLayout: 00
         textSub:
-        - It looks like a fortune telling machine
-        - like the ones we saw in carnivals.
+        - Ini seperti mainan yang meramal keberuntungan
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -430,7 +458,7 @@ MonoBehaviour:
       diarySub:
       - showMore: 01
         startPointsClip:
-        - 1.5724326
+        - 0.9174979
         firstLetter:
         - 0
         lastLetter: c8000000
@@ -473,22 +501,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - This statue gives me goose bumps!
+      - patung tulang
       diaryTextDisplayState: 01
       diaryText:
-      - This statue gives me goose bumps!
+      - Entah kenapa patung ini membuatku merinding...
       diaryAudioClip:
-      - {fileID: 8300000, guid: 2e37ab723f17b44c184f880845c6e1e9, type: 3}
+      - {fileID: 8300000, guid: 12dd455cd01e42b4fa4510d6cc307c18, type: 3}
       diarySub:
       - showMore: 01
         startPointsClip:
-        - 0.10636327
+        - 0.74005836
         firstLetter:
         - 0
         lastLetter: 2d000000
         bypasstextLayout: 00
         textSub:
-        - This statue gives me goose bumps!
+        - Entah kenapa patung ini membuatku merinding..
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -499,22 +527,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Mathematics have always seemed obscure to me.
+      - ahahaha, matematika
       diaryTextDisplayState: 01
       diaryText:
-      - Mathematics have always seemed obscure to me.
+      - Matematika itu sangat menyenangkan bukan?
       diaryAudioClip:
-      - {fileID: 8300000, guid: 91740441da5f54c88a6645ceba9fe81a, type: 3}
+      - {fileID: 8300000, guid: e9004140261cd3647aa806304abbedde, type: 3}
       diarySub:
       - showMore: 01
         startPointsClip:
-        - 0.066945426
+        - 0.55782616
         firstLetter:
         - 0
         lastLetter: 2f000000
         bypasstextLayout: 00
         textSub:
-        - Mathematics have always seemed obscure to me.
+        - Matematika itu sangat menyenangkan bukan?
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -1811,18 +1839,15 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 0101
+      - showMore: 01
         startPointsClip:
         - 0
-        - 1.5636132
         firstLetter:
         - 0
-        - 36
-        lastLetter: 2300000034000000
-        bypasstextLayout: 0000
+        lastLetter: 23000000
+        bypasstextLayout: 00
         textSub:
         - On dirait une machine de divination
-        - "comme celles que l'on voyait dans les f\xEAtes foraines"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2866,7 +2891,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 38
+  selectedID: 13
   b_EditSubtitle: 1
   currentAudioSubtitleEdit: 0
   editorType: 0
