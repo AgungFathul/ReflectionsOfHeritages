@@ -145,7 +145,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - A contemporary art painting
+      - Lukisan QR?
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -171,7 +171,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - 'Vacation pictures '
+      - Tempat apa ini?
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -275,7 +275,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Picture taken in the woods
+      - 'Apakah ini yang dimaksud dokumen barusan? sebuah candi? '
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -327,7 +327,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Canvas protecting a device
+      - Lukisan ini terlihat mencurigakan...
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -756,7 +756,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 13
+  selectedID: 0
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 3

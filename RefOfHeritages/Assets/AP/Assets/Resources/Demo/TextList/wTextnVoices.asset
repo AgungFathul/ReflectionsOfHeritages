@@ -15,54 +15,51 @@ MonoBehaviour:
   diaryList:
   - _languageSlot:
     - diaryTitle:
-      - Intro UK
+      - Intro Eksplorasi
       diaryTextDisplayState: 00
       diaryText:
-      - "Mr. Smith?\n\nIn France I have a detective firm that deals with some special
-        cases. Mr. Smith's case seemed really confusing so I came to the United States.\n\nAs
-        I got off the plane in Big Spring Texas, I took the first taxi that came.
-        He arrived quickly at the outskirts of the city. The driver wasn\u2019t very
-        talkative, but he ended up saying that he was not used to driving clients
-        in this area. \nIt\u2019s true that this house is very isolated."
+      - "Selamat pagi maya. \r\n\r\nKami  senang melihat Anda sudah sadar setelah
+        menjalani prosedur pemindahan menggunakan alat eksplorasi otak.\r\n\r\nSeperti
+        yang kamu ketahui bahwa proses eksplorasi otak ini dilakukan dengan tujuan
+        untuk mengungkapkan potongan-potongan ingatan yang telah hilang \n\nyaitu
+        ingatan mengenai kebudayaan dan tentu saja kami percaya bahwa Anda memiliki
+        kapasitas untuk mengungkap rahasia-rahasia yang tersembunyi dalam ingatan
+        Anda sendiri. Tim kami akan terus membantu anda dalam proses perjalanan pada
+        saat anda mengeksplorasi otak anda sendiri.\n\nuntuk itu, selamat bereksplorasi.  "
       diaryAudioClip:
-      - {fileID: 8300000, guid: 7c18e1f70c3bc4f25a39b09d86e455f7, type: 3}
+      - {fileID: 8300000, guid: 085532cfd6475ea499f4b9ced89ee82c, type: 3}
       - {fileID: 0}
       - {fileID: 0}
       diarySub:
-      - showMore: 010101010101010101
+      - showMore: 010101010101
         startPointsClip:
         - 0
-        - 1.6182848
-        - 6.1556644
-        - 10.551622
-        - 13.509025
-        - 15.749318
-        - 18.755117
-        - 20.995035
-        - 25.29876
+        - 1.7547762
+        - 7.722429
+        - 17.109068
+        - 26.692207
+        - 34.144547
         firstLetter:
         - 0
-        - 12
-        - 82
-        - 156
-        - 200
-        - 233
-        - 282
-        - 316
-        - 394
-        lastLetter: 0900000046000000480000002c0000002100000031000000220000004c0000002c000000
-        bypasstextLayout: 000000000000000000
+        - 23
+        - 135.7375
+        - 285.17502
+        - 454.6125
+        - 563.11664
+        lastLetter: 120000006c00000093000000aa0000006a00000042000000
+        bypasstextLayout: 000000000000
         textSub:
-        - Mr. Smith
-        - 'In France I have a detective firm that deals with some special cases. '
-        - Mr. Smith's case seemed really confusing so I came to the United States.
-        - 'As I got off the plane in Big Spring Texas, '
-        - 'I took the first taxi that came. '
-        - 'He arrived quickly at the outskirts of the city. '
-        - "The driver wasn\u2019t very talkative, "
-        - but he ended up saying that he was not used to driving clients in this
-          area.
-        - "It\u2019s true that this house is very isolated."
+        - Selamat pagi maya.
+        - Kami  senang melihat Anda sudah sadar setelah menjalani prosedur pemindahan
+          menggunakan alat eksplorasi otak
+        - 'Seperti yang kamu ketahui bahwa proses eksplorasi otak ini dilakukan dengan
+          tujuan untuk mengungkapkan potongan-potongan ingatan yang telah hilang '
+        - 'yaitu ingatan mengenai kebudayaan dan tentu saja kami percaya bahwa Anda
+          memiliki kapasitas untuk mengungkap rahasia-rahasia yang tersembunyi dalam
+          ingatan Anda sendiri. '
+        - Tim kami akan terus membantu anda dalam proses perjalanan pada saat anda
+          mengeksplorasi otak anda sendiri.
+        - 'untuk itu, selamat bereksplorasi.  '
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -102,13 +99,25 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - March 4, 2018
+      - Candi Borobudur
       diaryTextDisplayState: 01
       diaryText:
-      - "March 4, 2018\n\nThis last week was positive. I\u2019m progressing in my
-        research. The pieces of the puzzle are starting to come together. I have
-        an appointment with Kelly, at the steakhouse on Greenwood Road, to tell her
-        about my discoveries. \n"
+      - 'Candi Borobudur
+
+
+        Candi Borobudur, Jawa Tengah, adalah keajaiban
+        arsitektur dan spiritualitas kuno. Dibangun pada abad ke-8 oleh raja Samaratungga
+        dari Dinasti Syailendra, tujuannya adalah sebagai tempat suci Buddha. Ribuan
+        pekerja memahat batu vulkanik menjadi 2 juta balok batu. Pembangunannya sulit,
+        termasuk penempatan batu dan pengangkatan material yang berat. Setelah beberapa
+        dekade, Candi Borobudur selesai. Candi ini tingginya 34,5 meter, terdiri
+        dari sembilan tingkat, melambangkan perjalanan menuju pencerahan. Dalam sejarahnya,
+        Candi Borobudur menjadi pusat kegiatan keagamaan dan tempat ziarah. Terlupakan
+        dan terkubur, ditemukan kembali pada abad ke-19 oleh H.C. Cornelius, seorang
+        insinyur Belanda. Melalui restorasi, Candi Borobudur dipulihkan. Pada 1991,
+        UNESCO mengakui Candi Borobudur sebagai Situs Warisan Dunia.
+
+'
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -324,22 +333,28 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - This control box seems to be connected to something!
+      - kotak puzzle ini sepertinya terhubung sesuatu..
       diaryTextDisplayState: 01
       diaryText:
-      - This control box seems to be connected to something!
+      - 'Kotak apa ini?
+
+
+        Apakah kotak ini terhubung sesuatu?'
       diaryAudioClip:
-      - {fileID: 8300000, guid: fbd50dbd0fc394d228bafbd4064194e8, type: 3}
+      - {fileID: 8300000, guid: 8487a681c104e4a46ac37db2a22b4acb, type: 3}
       diarySub:
-      - showMore: 01
+      - showMore: 0101
         startPointsClip:
-        - 0.054828722
+        - 0.66091514
+        - 2.6609151
         firstLetter:
         - 0
-        lastLetter: 35000000
-        bypasstextLayout: 00
+        - 15.937499
+        lastLetter: 0e00000023000000
+        bypasstextLayout: 0000
         textSub:
-        - This control box seems to be connected to something!
+        - Kotak apa ini?
+        - Apakah kotak ini terhubung sesuatu?
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -405,26 +420,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Another contemporary art painting
+      - Lukisan mencurigakan
       diaryTextDisplayState: 01
       diaryText:
-      - 'Another contemporary art painting but it seems like there is a device hidden
-        behind it.  '
+      - Aku merasa ada sesuatu di belakang lukisan ini...
       diaryAudioClip:
-      - {fileID: 8300000, guid: b6759f281e53746bc87e8423bd1057bf, type: 3}
+      - {fileID: 8300000, guid: 06c0881ee6cae144d9cea1e3f186d3ea, type: 3}
       diarySub:
-      - showMore: 0101
+      - showMore: 01
         startPointsClip:
-        - 0
-        - 2.6839948
+        - 1.5724326
         firstLetter:
         - 0
-        - 34
-        lastLetter: 2100000035000000
-        bypasstextLayout: 0000
+        lastLetter: c8000000
+        bypasstextLayout: 00
         textSub:
-        - Another contemporary art painting
-        - but it seems like there is a device hidden behind it.
+        - Aku merasa ada sesuatu di belakang lukisan ini...
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -666,32 +677,6 @@ MonoBehaviour:
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 35
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - What's in the box?
-      diaryTextDisplayState: 01
-      diaryText:
-      - What's in the box?
-      diaryAudioClip:
-      - {fileID: 8300000, guid: 2a002a611f85b4fba80382ff9a4d3fa3, type: 3}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0.068024755
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - What's in the box?
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 36
       itemType: 0
       audioPriority: 0
     - diaryTitle:
@@ -1468,7 +1453,7 @@ MonoBehaviour:
       - {fileID: 0}
       - {fileID: 0}
       diarySub:
-      - showMore: 010101010101010101
+      - showMore: 010101010101
         startPointsClip:
         - 0
         - 2
@@ -1476,21 +1461,15 @@ MonoBehaviour:
         - 6
         - 8
         - 10
-        - 12
-        - 14
-        - 16
         firstLetter:
         - 0
         - 18
         - 96.87966
         - 178.7054
-        - 224.25726
-        - 256.2282
-        - 304.95227
-        - 337.90872
-        - 426.05185
-        lastLetter: 100000004e000000510000002d0000001f00000031000000200000005700000037000000
-        bypasstextLayout: 000000000000000000
+        - 223.7054
+        - 253.7054
+        lastLetter: 100000004e000000510000002d0000001e0000001e000000
+        bypasstextLayout: 000000000000
         textSub:
         - Monsieur Smith ?
         - "En France j'ai un cabinet de d\xE9tective qui traite d'affaires un peu
@@ -1498,12 +1477,8 @@ MonoBehaviour:
         - "Le cas de M. Smith semblait vraiment d\xE9routant alors je suis venu aux
           \xC9tats-Unis."
         - "A ma descente de l'avion \xE0 Big Spring Texas, "
-        - j'ai pris le premier taxi venu.
-        - "Il a rapidement atteint l'ext\xE9rieur de la ville. "
-        - "Le chauffeur n'\xE9tait pas bavard,"
-        - "mais il a fini par l\xE2cher qu'il n'avait pas l'habitude de conduire
-          des clients par ici."
-        - "C'est vrai que la maison de Mr Smith est tr\xE8s isol\xE9e..."
+        - "A ma descente de l'avion \xE0 Big Spring Texas, "
+        - "A ma descente de l'avion \xE0 Big Spring Texas, "
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -1770,14 +1745,17 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 01
+      - showMore: 0101
         startPointsClip:
         - 0
+        - 2
         firstLetter:
         - 0
-        lastLetter: 35000000
-        bypasstextLayout: 00
+        - 53
+        lastLetter: 350000001e000000
+        bypasstextLayout: 0000
         textSub:
+        - "Ce boitier de contr\xF4le semble reli\xE9 \xE0 quelque chose !"
         - "Ce boitier de contr\xF4le semble reli\xE9 \xE0 quelque chose !"
       diarySprite:
       - {fileID: 0}
@@ -1853,18 +1831,15 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 0101
+      - showMore: 01
         startPointsClip:
         - 0
-        - 1.6234331
         firstLetter:
         - 0
-        - 37
-        lastLetter: 2500000028000000
-        bypasstextLayout: 0000
+        lastLetter: 25000000
+        bypasstextLayout: 00
         textSub:
         - 'Encore un tableau d''art contemporain '
-        - "mais un m\xE9canisme semble cach\xE9 derri\xE8re."
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2106,32 +2081,6 @@ MonoBehaviour:
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 35
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Que contient ce coffre ?
-      diaryTextDisplayState: 01
-      diaryText:
-      - Que contient ce coffre ?
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0.08820847
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - Que contient ce coffre ?
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 36
       itemType: 0
       audioPriority: 0
     - diaryTitle:
@@ -2904,7 +2853,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 52
+  selectedID: 0
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 0
