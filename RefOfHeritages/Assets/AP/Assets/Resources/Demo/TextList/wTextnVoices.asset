@@ -70,13 +70,14 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - February 15, 2018
+      - Permulaan
       diaryTextDisplayState: 01
       diaryText:
-      - "February 15, 2018\n\nSince one month, my research has been at a standstill.
-        Even so, I was sure that I had taken a big step forward after my trip to
-        Europe and my meeting with Ernest De Parli. I\u2019m missing an element to
-        piece together the puzzle. "
+      - "Selamat datang, Maya. \n\nAnda mungkin bertanya mengapa ingatan Anda bisa
+        menghilang? Apakah ada entitas misterius yang terlibat? atau informasi penting
+        yang mengancam? tolong lupakan itu semua, dan ingat tujuan Anda sekarang.\n\nTujuan
+        anda adalah mencari informasi mengenai kebudayaan yang hilang, dan menemukan
+        bukti-bukti tentang fenomena ini."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -281,12 +282,12 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - "This door doesn\u2019t open with a key"
+      - Pintu ini terkunci
       diaryTextDisplayState: 01
       diaryText:
-      - "This door doesn\u2019t open with a key."
+      - 
       diaryAudioClip:
-      - {fileID: 8300000, guid: 6e28bbc41fb8a411a91a63127e7a47cf, type: 3}
+      - {fileID: 0}
       diarySub:
       - showMore: 01
         startPointsClip:
@@ -446,22 +447,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - "I didn\u2019t think it was that big. "
+      - Mulai Eksplorasi
       diaryTextDisplayState: 01
       diaryText:
-      - "I didn\u2019t think it was that big."
+      - Sepertinya ruangan ini masih banyak yang harus saya eksplor.
       diaryAudioClip:
-      - {fileID: 8300000, guid: 2e4fe242e09ac4c8da9901543f8d5688, type: 3}
+      - {fileID: 8300000, guid: 110544e86628cc146853336f7963137b, type: 3}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
-        - 0.121583
+        - 0.92517287
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: 3c000000
         bypasstextLayout: 00
         textSub:
-        - "I didn\u2019t think it was that big"
+        - Sepertinya ruangan ini masih banyak yang harus saya eksplor.
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -1073,22 +1074,31 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - New Title07
+      - Pengalaman menarik
       diaryTextDisplayState: 01
       diaryText:
-      - New description07
+      - 'Oke jadi maksudnya, saya harus mencari informasi mengenai kebudayaan dan
+        kenapa semua ini bisa terjadi kan?
+
+
+        sepertinya ini akan menjadi
+        pengalaman yang menarik'
       diaryAudioClip:
-      - {fileID: 0}
+      - {fileID: 8300000, guid: d678cd8a72f01e14294bf602c156cd77, type: 3}
       diarySub:
-      - showMore: 00
+      - showMore: 0101
         startPointsClip:
-        - 0
+        - 0.85946995
+        - 6.902162
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 108.666664
+        lastLetter: 6b00000034000000
+        bypasstextLayout: 0000
         textSub:
-        - 
+        - Oke jadi maksudnya, saya harus mencari informasi mengenai kebudayaan dan
+          kenapa semua ini bisa terjadi kan?
+        - sepertinya ini akan menjadi pengalaman yang menarik
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2484,14 +2494,17 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 0001
         startPointsClip:
         - 0
+        - 2
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0000
         textSub:
+        - 
         - 
       diarySprite:
       - {fileID: 0}
@@ -2853,8 +2866,8 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 0
-  b_EditSubtitle: 0
+  selectedID: 38
+  b_EditSubtitle: 1
   currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 1
